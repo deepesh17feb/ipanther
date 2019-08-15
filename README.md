@@ -4,7 +4,7 @@ Panther Cache  makes it easy to create Spring-powered, production-grade applicat
 services with absolute minimum fuss. It takes an opinionated view of the Spring platform
 so that new and existing users can quickly get to the bits they need.
 
-You can use Phantom Cache to create cache providers automatically with just minimum property configuration.
+You can use Panther Cache to create cache providers automatically with just minimum property configuration.
 
 Our primary goals are:
 
